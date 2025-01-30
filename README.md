@@ -23,10 +23,10 @@ A gesture-controlled system that allows users to interact with robots, computers
 - Arduino IDE or VSCode
 - **Programming Languages**: Pyhton, C++
 - **Libraries**
-  `numpy` (for signal processing)
-  `pyserial` (for serial communication)
-  `opencv-python` (for gesture tracking if using a camera)
-  `scipy` (for filtering sensor noise)
+  - `numpy` (for signal processing)
+  - `pyserial` (for serial communication)
+  - `opencv-python` (for gesture tracking if using a camera)
+  - `scipy` (for filtering sensor noise)
 
 ---
 
